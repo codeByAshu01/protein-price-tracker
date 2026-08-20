@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-19 23:19 IST",
+  "checked_at": "2026-08-20 09:30 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -87,14 +87,14 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Pure Pea Protein Isolate",
+      "name": "Nutrabay Gold Pea Protein",
       "brand": "Nutrabay",
-      "mrp": 1349,
+      "mrp": 1049,
       "price": 849,
-      "discount_pct": 37.1,
-      "size_g": 1000.0,
-      "price_per_100g": 84.9,
-      "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
+      "discount_pct": 19.1,
+      "size_g": 500.0,
+      "price_per_100g": 169.8,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
     {
@@ -1067,7 +1067,7 @@
       "size_g": 610,
       "price_per_100g": 52.3,
       "url": "https://myfitness.co.in/products/myfitness-peanut-butter-dark-chocolate-29-protein-crispy-rich-chocolate-peanut-butter-spread",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "MyFitness",
