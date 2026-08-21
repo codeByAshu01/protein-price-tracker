@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-08-20 09:30 IST
+**Last checked:** 2026-08-21 09:33 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -51,18 +51,18 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
 | Plant Protein - Rich Chocolate - Single Serving Sachet | ₹90 | ₹90 | 0% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet) |
-| 100% Pure & Natural Moringa Powder | ₹250 | ₹238 | 5% | - | ✅ | [view](https://in.fastandup.com/products/100-pure-natural-moringa-powder) |
+| 100% Pure & Natural Moringa Powder | ₹250 | ₹225 | 10% | - | ✅ | [view](https://in.fastandup.com/products/100-pure-natural-moringa-powder) |
 | Plant Protein - Assorted Pack | ₹270 | ₹243 | 10% | - | ✅ | [view](https://in.fastandup.com/products/fast-up-plant-protein-assorted-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 5) | ₹450 | ₹396 | 12% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 10) | ₹900 | ₹765 | 15% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
+| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹831 | 48% | ₹166.30 | ❌ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
+| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,103 | 31% | ₹220.66 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15) | ₹1,350 | ₹1,107 | 18% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
-| Plant Protein - Cookies & Cream - 500g | ₹1,599 | ₹1,119 | 30% | ₹223.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g) |
-| Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹1,119 | 30% | ₹223.80 | ❌ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
-| Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹1,949 | 37% | ₹194.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
-| Plant Protein - Kesar Kulfi - 1kg | ₹3,115 | ₹1,949 | 37% | ₹194.90 | ❌ | [view](https://in.fastandup.com/products/plant-protein-powder-special-festive-pack) |
-| Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,949 | 37% | ₹194.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
-| Plant Protein - Strawberry Blast - 25 Servings | ₹3,115 | ₹1,949 | 37% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-strawberry-25-servings) |
-| Plant Protein - Rich Chocolate - 1kg | ₹3,115 | ₹1,949 | 37% | ₹194.90 | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg) |
+| Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹1,620 | 48% | ₹161.98 | ✅ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
+| Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,620 | 48% | ₹161.98 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
+| Plant Protein - Strawberry Blast - 25 Servings | ₹3,115 | ₹1,620 | 48% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-strawberry-25-servings) |
+| Plant Protein - Rich Chocolate - 1kg | ₹3,115 | ₹1,620 | 48% | ₹161.98 | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg) |
+| Plant Protein - Kesar Kulfi - 1kg | ₹3,115 | ₹1,819 | 42% | ₹181.95 | ❌ | [view](https://in.fastandup.com/products/plant-protein-powder-special-festive-pack) |
 | Plant Protein - Cookies & Cream - 500g Pack of 2 | ₹3,198 | ₹1,999 | 38% | ₹399.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2) |
 | Daily Fiber + Plant Protein Rich Chocolate Combo | ₹3,715 | ₹2,299 | 38% | - | ✅ | [view](https://in.fastandup.com/products/daily-fiber-plant-protein-rich-chocolate-combo) |
 
@@ -100,11 +100,11 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crispy - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-crispy) |
 | MyFitness Peanut Butter - Chocolate - 28% Protein - Smooth - Chocolate Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-smooth) |
 | MyFitness Peanut Butter - Original - 28% Protein - Crunchy - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-crunchy) |
-| MyFitness Peanut Butter - Original - 28% Protein - Smooth - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ❌ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-smooth) |
+| MyFitness Peanut Butter - Original - 28% Protein - Smooth - Classic Peanut Butter Spread (510 g) | ₹319 | ₹275 | 14% | ₹45.08 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-smooth) |
 | MyFitness Peanut Butter - Chocolate - 25% Protein - Almond Crunch - Chocolate Peanut Butter Spread (510 g) | ₹379 | ₹279 | 26% | ₹54.71 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-with-almond-crunch) |
-| MyFitness Peanut Butter - Dark Chocolate - 30% Protein - Smooth - Rich Chocolate Peanut Butter Spread (510 g) | ₹399 | ₹299 | 25% | ₹49.02 | ❌ | [view](https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth) |
-| MyFitness Peanut Butter - Dark Chocolate - 29% Protein - Crispy - Rich Chocolate Peanut Butter Spread (510 g) | ₹399 | ₹319 | 20% | ₹52.30 | ❌ | [view](https://myfitness.co.in/products/myfitness-peanut-butter-dark-chocolate-29-protein-crispy-rich-chocolate-peanut-butter-spread) |
 | MyFitness Peanut Butter - Chocolate - 26% Protein - Crunchy - Chocolate Peanut Butter Spread (900g) | ₹499 | ₹399 | 20% | ₹39.90 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-crunchy) |
+| MyFitness Peanut Butter - Chocolate - 28% Protein - Smooth - Chocolate Peanut Butter Spread (900g) | ₹499 | ₹399 | 20% | ₹39.90 | ✅ | [view](https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-smooth) |
+| MyFitness Peanut Butter - Original - 28% Protein - Crunchy - Classic Peanut Butter Spread (900g) | ₹499 | ₹399 | 20% | ₹44.33 | ✅ | [view](https://myfitness.co.in/products/myfitness-original-peanut-butter-crunchy) |
 
 ## Naturaltein
 
@@ -137,7 +137,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | TruNativ Plant Based Everyday Protein - Protein You Can Cook With! | ₹699 | ₹599 | 14% | ₹363.03 | ✅ | [view](https://nutrabay.com/product/trunativ-plant-based-everyday-protein-protein-you-can-cook-with/?pId=9485223) |
 | Nutrabay Pure Pea Protein Isolate | ₹669 | ₹649 | 3% | ₹129.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
 | Nutrabay Wellness Vegan Plant Protein Powder + Superfoods | ₹1,199 | ₹799 | 33% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878) |
-| Nutrabay Gold Pea Protein | ₹1,049 | ₹849 | 19% | ₹169.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
+| Nutrabay Wellness Vegan Plant Protein Powder + Superfoods | ₹1,199 | ₹799 | 33% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878) |
 | Nutrabay BioAbsorb™ Whey Protein Powder - Clinically Tested 54% Better Protein Absorption - 26g Protein/Scoop - India's 1st Protein with ProDiFi™ for No Bloating - No Added Sugar | ₹859 | ₹859 | 0% | ₹474.59 | ✅ | [view](https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444) |
 | Nakpro Nutrition Platinum Soy Protein Isolate | ₹2,050 | ₹899 | 56% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475) |
 | Nakpro Nutrition Platinum Soy Protein Isolate | ₹2,050 | ₹899 | 56% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475) |

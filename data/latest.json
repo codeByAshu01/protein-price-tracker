@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-20 09:30 IST",
+  "checked_at": "2026-08-21 09:33 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -87,14 +87,14 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
+      "name": "Nutrabay Wellness Vegan Plant Protein Powder + Superfoods",
       "brand": "Nutrabay",
-      "mrp": 1049,
-      "price": 849,
-      "discount_pct": 19.1,
+      "mrp": 1199,
+      "price": 799,
+      "discount_pct": 33.4,
       "size_g": 500.0,
-      "price_per_100g": 169.8,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "price_per_100g": 159.8,
+      "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
       "in_stock": true
     },
     {
@@ -198,8 +198,8 @@
       "name": "100% Pure & Natural Moringa Powder",
       "brand": "Fastandup",
       "mrp": 250.0,
-      "price": 238.0,
-      "discount_pct": 4.8,
+      "price": 225.0,
+      "discount_pct": 10.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/100-pure-natural-moringa-powder",
@@ -243,6 +243,30 @@
     },
     {
       "source": "Fast&Up",
+      "name": "Plant Protein - Rich Chocolate – 500gms",
+      "brand": "Fastandup",
+      "mrp": 1599.0,
+      "price": 831.48,
+      "discount_pct": 48.0,
+      "size_g": 500.0,
+      "price_per_100g": 166.3,
+      "url": "https://in.fastandup.com/products/plant-protein-powder-500gms",
+      "in_stock": false
+    },
+    {
+      "source": "Fast&Up",
+      "name": "Plant Protein - Cookies & Cream - 500g",
+      "brand": "Fastandup",
+      "mrp": 1599.0,
+      "price": 1103.31,
+      "discount_pct": 31.0,
+      "size_g": 500.0,
+      "price_per_100g": 220.66,
+      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g",
+      "in_stock": true
+    },
+    {
+      "source": "Fast&Up",
       "name": "Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15)",
       "brand": "Fastandup",
       "mrp": 1350.0,
@@ -255,61 +279,25 @@
     },
     {
       "source": "Fast&Up",
-      "name": "Plant Protein - Cookies & Cream - 500g",
-      "brand": "Fastandup",
-      "mrp": 1599.0,
-      "price": 1119.0,
-      "discount_pct": 30.0,
-      "size_g": 500.0,
-      "price_per_100g": 223.8,
-      "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-500g",
-      "in_stock": true
-    },
-    {
-      "source": "Fast&Up",
-      "name": "Plant Protein - Rich Chocolate – 500gms",
-      "brand": "Fastandup",
-      "mrp": 1599.0,
-      "price": 1119.0,
-      "discount_pct": 30.0,
-      "size_g": 500.0,
-      "price_per_100g": 223.8,
-      "url": "https://in.fastandup.com/products/plant-protein-powder-500gms",
-      "in_stock": false
-    },
-    {
-      "source": "Fast&Up",
       "name": "Plant Protein - Alphonso Mango - 1Kg",
       "brand": "Fastandup",
       "mrp": 3115.0,
-      "price": 1949.0,
-      "discount_pct": 37.4,
+      "price": 1619.8,
+      "discount_pct": 48.0,
       "size_g": 1000.0,
-      "price_per_100g": 194.9,
+      "price_per_100g": 161.98,
       "url": "https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings",
       "in_stock": true
-    },
-    {
-      "source": "Fast&Up",
-      "name": "Plant Protein - Kesar Kulfi - 1kg",
-      "brand": "Fastandup",
-      "mrp": 3115.0,
-      "price": 1949.0,
-      "discount_pct": 37.4,
-      "size_g": 1000.0,
-      "price_per_100g": 194.9,
-      "url": "https://in.fastandup.com/products/plant-protein-powder-special-festive-pack",
-      "in_stock": false
     },
     {
       "source": "Fast&Up",
       "name": "Plant Protein - Cookies & Cream - 1Kg",
       "brand": "Fastandup",
       "mrp": 3115.0,
-      "price": 1949.0,
-      "discount_pct": 37.4,
+      "price": 1619.8,
+      "discount_pct": 48.0,
       "size_g": 1000.0,
-      "price_per_100g": 194.9,
+      "price_per_100g": 161.98,
       "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg",
       "in_stock": true
     },
@@ -318,24 +306,36 @@
       "name": "Plant Protein - Strawberry Blast - 25 Servings",
       "brand": "Fastandup",
       "mrp": 3115.0,
-      "price": 1949.0,
-      "discount_pct": 37.4,
+      "price": 1619.8,
+      "discount_pct": 48.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://in.fastandup.com/products/plant-protein-strawberry-25-servings",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Fast&Up",
       "name": "Plant Protein - Rich Chocolate - 1kg",
       "brand": "Fastandup",
       "mrp": 3115.0,
-      "price": 1949.0,
-      "discount_pct": 37.4,
+      "price": 1619.8,
+      "discount_pct": 48.0,
       "size_g": 1000.0,
-      "price_per_100g": 194.9,
+      "price_per_100g": 161.98,
       "url": "https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg",
       "in_stock": true
+    },
+    {
+      "source": "Fast&Up",
+      "name": "Plant Protein - Kesar Kulfi - 1kg",
+      "brand": "Fastandup",
+      "mrp": 3115.0,
+      "price": 1819.48,
+      "discount_pct": 41.6,
+      "size_g": 1000.0,
+      "price_per_100g": 181.95,
+      "url": "https://in.fastandup.com/products/plant-protein-powder-special-festive-pack",
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
@@ -1031,7 +1031,7 @@
       "size_g": 610,
       "price_per_100g": 45.08,
       "url": "https://myfitness.co.in/products/myfitness-original-peanut-butter-smooth",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "MyFitness",
@@ -1047,30 +1047,6 @@
     },
     {
       "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Dark Chocolate | 30% Protein | Smooth | Rich Chocolate Peanut Butter Spread (510 g)",
-      "brand": "MYFITNESS",
-      "mrp": 399.0,
-      "price": 299.0,
-      "discount_pct": 25.1,
-      "size_g": 610,
-      "price_per_100g": 49.02,
-      "url": "https://myfitness.co.in/products/myfitness-olympia-edition-dark-chocolate-peanut-butter-with-added-whey-smooth",
-      "in_stock": false
-    },
-    {
-      "source": "MyFitness",
-      "name": "MyFitness Peanut Butter - Dark Chocolate | 29% Protein | Crispy | Rich Chocolate Peanut Butter Spread (510 g)",
-      "brand": "MYFITNESS",
-      "mrp": 399.0,
-      "price": 319.0,
-      "discount_pct": 20.1,
-      "size_g": 610,
-      "price_per_100g": 52.3,
-      "url": "https://myfitness.co.in/products/myfitness-peanut-butter-dark-chocolate-29-protein-crispy-rich-chocolate-peanut-butter-spread",
-      "in_stock": false
-    },
-    {
-      "source": "MyFitness",
       "name": "MyFitness Peanut Butter - Chocolate | 26% Protein | Crunchy | Chocolate Peanut Butter Spread (900g)",
       "brand": "myfitness-official-store",
       "mrp": 499.0,
@@ -1079,6 +1055,30 @@
       "size_g": 1000,
       "price_per_100g": 39.9,
       "url": "https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-crunchy",
+      "in_stock": true
+    },
+    {
+      "source": "MyFitness",
+      "name": "MyFitness Peanut Butter - Chocolate | 28% Protein | Smooth | Chocolate Peanut Butter Spread (900g)",
+      "brand": "myfitness-official-store",
+      "mrp": 499.0,
+      "price": 399.0,
+      "discount_pct": 20.0,
+      "size_g": 1000,
+      "price_per_100g": 39.9,
+      "url": "https://myfitness.co.in/products/myfitness-chocolate-peanut-butter-smooth",
+      "in_stock": true
+    },
+    {
+      "source": "MyFitness",
+      "name": "MyFitness Peanut Butter - Original | 28% Protein | Crunchy | Classic Peanut Butter Spread (900g)",
+      "brand": "myfitness-official-store",
+      "mrp": 499.0,
+      "price": 399.0,
+      "discount_pct": 20.0,
+      "size_g": 900,
+      "price_per_100g": 44.33,
+      "url": "https://myfitness.co.in/products/myfitness-original-peanut-butter-crunchy",
       "in_stock": true
     },
     {
