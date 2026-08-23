@@ -1,6 +1,18 @@
 {
-  "checked_at": "2026-08-22 09:27 IST",
+  "checked_at": "2026-08-23 09:33 IST",
   "items": [
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Gold Pea Protein",
+      "brand": "Nutrabay",
+      "mrp": 69,
+      "price": 69,
+      "discount_pct": 0.0,
+      "size_g": 40.0,
+      "price_per_100g": 172.5,
+      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
     {
       "source": "Nutrabay",
       "name": "Nutrabay Gold Pea Protein",
@@ -83,18 +95,6 @@
       "size_g": 500.0,
       "price_per_100g": 159.8,
       "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 1049,
-      "price": 849,
-      "discount_pct": 19.1,
-      "size_g": 500.0,
-      "price_per_100g": 169.8,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
     {
