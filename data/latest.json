@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-08-23 09:33 IST",
+  "checked_at": "2026-08-24 09:37 IST",
   "items": [
     {
       "source": "Nutrabay",
       "name": "Nutrabay Gold Pea Protein",
       "brand": "Nutrabay",
       "mrp": 69,
-      "price": 69,
-      "discount_pct": 0.0,
+      "price": 49,
+      "discount_pct": 29.0,
       "size_g": 40.0,
-      "price_per_100g": 172.5,
+      "price_per_100g": 122.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
@@ -18,10 +18,10 @@
       "name": "Nutrabay Gold Pea Protein",
       "brand": "Nutrabay",
       "mrp": 69,
-      "price": 69,
-      "discount_pct": 0.0,
+      "price": 59,
+      "discount_pct": 14.5,
       "size_g": 40.0,
-      "price_per_100g": 172.5,
+      "price_per_100g": 147.5,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
       "in_stock": true
     },
@@ -51,6 +51,18 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Nutrabay Pure Pea Protein Isolate",
+      "brand": "Nutrabay",
+      "mrp": 669,
+      "price": 599,
+      "discount_pct": 10.5,
+      "size_g": 500.0,
+      "price_per_100g": 119.8,
+      "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "TruNativ Plant Based Everyday Protein - Protein You Can Cook With!",
       "brand": "TruNativ",
       "mrp": 699,
@@ -63,37 +75,13 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Pure Pea Protein Isolate",
-      "brand": "Nutrabay",
-      "mrp": 669,
-      "price": 649,
-      "discount_pct": 3.0,
-      "size_g": 500.0,
-      "price_per_100g": 129.8,
-      "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
       "name": "Nutrabay Wellness Vegan Plant Protein Powder + Superfoods",
       "brand": "Nutrabay",
       "mrp": 1199,
-      "price": 799,
-      "discount_pct": 33.4,
+      "price": 699,
+      "discount_pct": 41.7,
       "size_g": 500.0,
-      "price_per_100g": 159.8,
-      "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Wellness Vegan Plant Protein Powder + Superfoods",
-      "brand": "Nutrabay",
-      "mrp": 1199,
-      "price": 799,
-      "discount_pct": 33.4,
-      "size_g": 500.0,
-      "price_per_100g": 159.8,
+      "price_per_100g": 139.8,
       "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
       "in_stock": true
     },
@@ -102,11 +90,35 @@
       "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
       "brand": "Nutrabay",
       "mrp": 859,
-      "price": 859,
-      "discount_pct": 0.0,
+      "price": 749,
+      "discount_pct": 12.8,
       "size_g": 181.0,
-      "price_per_100g": 474.59,
+      "price_per_100g": 413.81,
       "url": "https://nutrabay.com/product/nutrabay-bioabsorb-whey-protein/?pId=8042444",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Wellness Vegan Plant Protein Powder + Superfoods",
+      "brand": "Nutrabay",
+      "mrp": 1199,
+      "price": 799,
+      "discount_pct": 33.4,
+      "size_g": 500.0,
+      "price_per_100g": 159.8,
+      "url": "https://nutrabay.com/product/nutrabay-wellness-vegan-plant-protein-powder-superfoods/?pId=4698878",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nutrabay Pure Pea Protein Isolate",
+      "brand": "Nutrabay",
+      "mrp": 1349,
+      "price": 899,
+      "discount_pct": 33.4,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
       "in_stock": true
     },
     {
@@ -155,18 +167,6 @@
       "size_g": null,
       "price_per_100g": null,
       "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Velbiom Happy Cultures Tastiest Plant Protein",
-      "brand": "Velbiom",
-      "mrp": 1699,
-      "price": 949,
-      "discount_pct": 44.1,
-      "size_g": 505.0,
-      "price_per_100g": 187.92,
-      "url": "https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265",
       "in_stock": true
     },
     {
