@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-09-01 14:11 IST
+**Last checked:** 2026-09-02 13:26 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -70,10 +70,6 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| GNC Superfood Plant Isolate 35 gram (35gm / Chocolate) | ₹149 | ₹1 | 99% | - | ✅ | [view](https://gnc.in/products/gnc-superfood-plant-isolate-35-gram) |
-| GNC Superfood Plant Isolate 35 gram (35gm / Coffee) | ₹149 | ₹1 | 99% | - | ✅ | [view](https://gnc.in/products/gnc-superfood-plant-isolate-35-gram) |
-| GNC Superfood Plant Isolate 35 gram (35gm / Mango) | ₹149 | ₹1 | 99% | - | ✅ | [view](https://gnc.in/products/gnc-superfood-plant-isolate-35-gram) |
-| GNC Superfood Plant Isolate 35 gram (35gm / Vanilla) | ₹149 | ₹1 | 99% | - | ❌ | [view](https://gnc.in/products/gnc-superfood-plant-isolate-35-gram) |
 | PP Protein Wafer Bar Mini 20gm (Chocolate / 20 gm) | ₹60 | ₹40 | 33% | ₹200.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
 | PP Protein Wafer Bar Mini 20gm (Coffee / 20 gm) | ₹60 | ₹40 | 33% | ₹200.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
 | PP Protein Wafer Bar Mini 20gm (Peanut Butter / 20 gm) | ₹60 | ₹40 | 33% | ₹200.00 | ✅ | [view](https://gnc.in/products/pp-protein-wafer-bar-mini-20gm) |
@@ -85,6 +81,10 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | GNC Select Fermented Yeast Protein Isolate (35gm) (35 gm / Coffee) | ₹149 | ₹65 | 56% | ₹185.71 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm) |
 | GNC Select Fermented Yeast Protein Isolate (35gm) (35 gm / Vanilla) | ₹149 | ₹65 | 56% | ₹185.71 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm) |
 | GNC Select Fermented Yeast Protein Isolate (35 gm / Chocolate) | ₹149 | ₹69 | 54% | ₹197.14 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein) |
+| GNC Select Fermented Yeast Protein Isolate (35 gm / Coffee) | ₹149 | ₹69 | 54% | ₹197.14 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein) |
+| GNC Select Fermented Yeast Protein Isolate (35 gm / Vanilla) | ₹149 | ₹69 | 54% | ₹197.14 | ✅ | [view](https://gnc.in/products/gnc-select-fermented-yeast-protein) |
+| 100% Whey Protein Sachets 35gm - Clearance Sale- Expiry - 2025-11-30 (Mawa Kulfi) | ₹199 | ₹70 | 65% | ₹200.00 | ❌ | [view](https://gnc.in/products/100-whey-protein-sachets-35gm) |
+| GNC Protein Wafer Bar (Pack of 1 / Chocolate) | ₹120 | ₹99 | 18% | - | ✅ | [view](https://gnc.in/products/gnc-protein-wafer-bar) |
 
 ## MyFitness
 
@@ -130,7 +130,6 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| Nutrabay Gold Pea Protein | ₹69 | ₹49 | 29% | ₹122.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹600 | ₹499 | 17% | ₹346.53 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Nutrabay Pure Pea Protein Isolate | ₹669 | ₹599 | 10% | ₹119.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
 | TruNativ Plant Based Everyday Protein - Protein You Can Cook With! | ₹699 | ₹599 | 14% | ₹363.03 | ✅ | [view](https://nutrabay.com/product/trunativ-plant-based-everyday-protein-protein-you-can-cook-with/?pId=9485223) |
@@ -140,11 +139,12 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Nutrabay Gold Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Nutrabay Gold Pea Protein | ₹1,049 | ₹799 | 24% | ₹159.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
-| Nutrabay Pure Pea Protein Isolate | ₹1,349 | ₹899 | 33% | ₹89.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
+| Nutrabay Pure Pea Protein Isolate | ₹1,349 | ₹849 | 37% | ₹84.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
 | Optimum Nutrition (ON) Gold Standard Whey Protein Powder | ₹940 | ₹940 | 0% | - | ✅ | [view](https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
+| Nutrabay Pure Soy Protein Isolate | ₹1,349 | ₹999 | 26% | ₹99.90 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-soy-protein-isolate/?pId=4186049) |
 
 ## OZiva
 
