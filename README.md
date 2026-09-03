@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-09-02 13:26 IST
+**Last checked:** 2026-09-03 13:35 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -34,7 +34,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | AS-IT-IS ONE Pea Protein Isolate - 29g Protein per Serving - Plant Protein - Single-Ingredient, Unflavoured (36g-Sachet) | ₹175 | ₹115 | 34% | - | ❌ | [view](https://asitisnutrition.com/products/as-it-is-nutrition-pea-protein-isolate-powder) |
 | AS-IT-IS ONE Soy Protein Isolate - 30g Protein per Serving - Plant Protein - Single-Ingredient, Unflavoured (35g) | ₹175 | ₹115 | 34% | - | ✅ | [view](https://asitisnutrition.com/products/as-it-is-nutrition-buy-soy-protein-isolate-powder-in-india) |
 | AS-IT-IS ATOM Beginners Whey Protein - 15g Protein per Serving - With DigeZyme® Enzymes (Choco Hazel Fusion / 37g) | ₹203 | ₹124 | 39% | - | ✅ | [view](https://asitisnutrition.com/products/atom-beginners-whey-protein) |
-| AS-IT-IS ATOM Performance Whey - 25g Protein per Serving - With Safed Musli, Mucuna & DigeZyme® Enzymes (Double Rich Chocolate / 45g) | ₹220 | ₹133 | 40% | - | ✅ | [view](https://asitisnutrition.com/products/as-it-is-atom-performance-whey-1kg-with-safed-musli-for-faster-recovery-highly-bioavailable) |
+| AS-IT-IS ATOM Performance Whey - 25g Protein per Serving - With Safed Musli, Mucuna & DigeZyme® Enzymes (Double Rich Chocolate / 45g) | ₹220 | ₹133 | 40% | - | ❌ | [view](https://asitisnutrition.com/products/as-it-is-atom-performance-whey-1kg-with-safed-musli-for-faster-recovery-highly-bioavailable) |
 | AS-IT-IS ATOM Performance Whey - 25g Protein per Serving - With Safed Musli, Mucuna & DigeZyme® Enzymes (Pista Fusion / 45g) | ₹2,485 | ₹133 | 95% | - | ❌ | [view](https://asitisnutrition.com/products/as-it-is-atom-performance-whey-1kg-with-safed-musli-for-faster-recovery-highly-bioavailable) |
 | AS-IT-IS ATOM Performance Whey - 25g Protein per Serving - With Safed Musli, Mucuna & DigeZyme® Enzymes (Cafe Latte / 45g) | ₹2,485 | ₹133 | 95% | - | ❌ | [view](https://asitisnutrition.com/products/as-it-is-atom-performance-whey-1kg-with-safed-musli-for-faster-recovery-highly-bioavailable) |
 | AS-IT-IS ATOM Performance Whey - 25g Protein per Serving - With Safed Musli, Mucuna & DigeZyme® Enzymes (Cookie delight / 45g) | ₹2,485 | ₹133 | 95% | - | ❌ | [view](https://asitisnutrition.com/products/as-it-is-atom-performance-whey-1kg-with-safed-musli-for-faster-recovery-highly-bioavailable) |
