@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-04 13:30 IST",
+  "checked_at": "2026-09-05 13:12 IST",
   "items": [
     {
       "source": "Nutrabay",
@@ -935,7 +935,7 @@
       "size_g": 900,
       "price_per_100g": null,
       "url": "https://myfitness.co.in/products/pro-fitness-rolled-oats-900g",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "MyFitness",
