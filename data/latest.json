@@ -1,18 +1,6 @@
 {
-  "checked_at": "2026-09-08 13:37 IST",
+  "checked_at": "2026-09-09 13:41 IST",
   "items": [
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 69,
-      "price": 69,
-      "discount_pct": 0.0,
-      "size_g": 40.0,
-      "price_per_100g": 172.5,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
-      "in_stock": true
-    },
     {
       "source": "Nutrabay",
       "name": "Nutrabay Gold Pea Protein",
@@ -87,6 +75,30 @@
     },
     {
       "source": "Nutrabay",
+      "name": "Nutrabay Pure Pea Protein Isolate",
+      "brand": "Nutrabay",
+      "mrp": 1499,
+      "price": 849,
+      "discount_pct": 43.4,
+      "size_g": 1000.0,
+      "price_per_100g": 84.9,
+      "url": "https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Ace Blend Plant Based Daily Protein",
+      "brand": "Ace Blend",
+      "mrp": 1935,
+      "price": 849,
+      "discount_pct": 56.1,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://nutrabay.com/product/ace-blend-plant-based-daily-protein/?pId=6275363",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
       "name": "Nutrabay BioAbsorb™ Whey Protein Powder | Clinically Tested 54% Better Protein Absorption | 26g Protein/Scoop | India's 1st Protein with ProDiFi™ for No Bloating | No Added Sugar",
       "brand": "Nutrabay",
       "mrp": 859,
@@ -131,18 +143,6 @@
       "size_g": 500.0,
       "price_per_100g": 179.8,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Optimum Nutrition (ON) Gold Standard Whey Protein Powder",
-      "brand": "Optimum Nutrition",
-      "mrp": 940,
-      "price": 940,
-      "discount_pct": 0.0,
-      "size_g": 155.0,
-      "price_per_100g": 606.45,
-      "url": "https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481",
       "in_stock": true
     },
     {
@@ -275,7 +275,7 @@
       "size_g": 1000.0,
       "price_per_100g": 155.8,
       "url": "https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
@@ -287,7 +287,7 @@
       "size_g": 1000.0,
       "price_per_100g": 155.8,
       "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
@@ -618,10 +618,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Dark Chocolate Hazelnut (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1709.0,
+      "discount_pct": 5.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-dark-chocolate-hazelnut",
       "in_stock": true
     },
@@ -630,10 +630,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Italian Cafe Mocha (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1709.0,
+      "discount_pct": 5.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-italian-cafe-mocha",
       "in_stock": false
     },
@@ -642,10 +642,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Belgian Dark Chocolate (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1709.0,
+      "discount_pct": 5.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-belgian-chocolate",
       "in_stock": true
     },
@@ -654,10 +654,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | French Vanilla Caramel (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1709.0,
+      "discount_pct": 5.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-french-vanilla-caramel",
       "in_stock": true
     },
@@ -666,10 +666,10 @@
       "name": "Plant Protein 22g | 500g | 3B CFU Probiotics | Canadian Mixed Berry (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1709.0,
+      "discount_pct": 5.0,
       "size_g": 500.0,
-      "price_per_100g": 323.8,
+      "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-canadian-mixed-berry",
       "in_stock": true
     },
@@ -678,8 +678,8 @@
       "name": "Her Superfood Plant Protein | Chocolate Peanut Butter (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1709.0,
+      "discount_pct": 5.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-for-women",
@@ -690,8 +690,8 @@
       "name": "Superfood Plant Protein | British Banoffee Pie (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 1799.0,
-      "price": 1619.0,
-      "discount_pct": 10.0,
+      "price": 1709.0,
+      "discount_pct": 5.0,
       "size_g": null,
       "price_per_100g": null,
       "url": "https://wellbeingnutrition.com/products/superfood-plant-protein-powder-in-banoffee-pie",
@@ -714,10 +714,10 @@
       "name": "Plant Protein 22g | 907g | 3B CFU Probiotics | French Vanilla Caramel (Pack of 1)",
       "brand": "Wellbeing Nutrition",
       "mrp": 3399.0,
-      "price": 3059.0,
-      "discount_pct": 10.0,
+      "price": 3229.0,
+      "discount_pct": 5.0,
       "size_g": 907.0,
-      "price_per_100g": 337.27,
+      "price_per_100g": 356.01,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-french-vanilla-caramel-copy",
       "in_stock": true
     },
@@ -935,7 +935,7 @@
       "size_g": 900,
       "price_per_100g": null,
       "url": "https://myfitness.co.in/products/pro-fitness-rolled-oats-900g",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "MyFitness",
@@ -1299,6 +1299,42 @@
     },
     {
       "source": "GNC India",
+      "name": "GNC Protein Wafer Bar (Pack of 1 / Chocolate)",
+      "brand": "GNC",
+      "mrp": 120.0,
+      "price": 54.0,
+      "discount_pct": 55.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://gnc.in/products/gnc-protein-wafer-bar",
+      "in_stock": true
+    },
+    {
+      "source": "GNC India",
+      "name": "GNC Protein Wafer Bar (Pack of 1 / Peanut Butter)",
+      "brand": "GNC",
+      "mrp": 120.0,
+      "price": 54.0,
+      "discount_pct": 55.0,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://gnc.in/products/gnc-protein-wafer-bar",
+      "in_stock": true
+    },
+    {
+      "source": "GNC India",
+      "name": "GNC Protein Wafer Bar (Pack of 1 / Coffee)",
+      "brand": "GNC",
+      "mrp": 149.0,
+      "price": 54.0,
+      "discount_pct": 63.8,
+      "size_g": null,
+      "price_per_100g": null,
+      "url": "https://gnc.in/products/gnc-protein-wafer-bar",
+      "in_stock": true
+    },
+    {
+      "source": "GNC India",
       "name": "GNC Protein Wafer Bar (Chocolate) (Pack of 1 / Chocolate)",
       "brand": "GNC",
       "mrp": 59.0,
@@ -1403,42 +1439,6 @@
       "size_g": 35.0,
       "price_per_100g": 185.71,
       "url": "https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm",
-      "in_stock": true
-    },
-    {
-      "source": "GNC India",
-      "name": "GNC Select Fermented Yeast Protein Isolate (35gm) (35 gm / Vanilla)",
-      "brand": "GNC India",
-      "mrp": 149.0,
-      "price": 65.0,
-      "discount_pct": 56.4,
-      "size_g": 35.0,
-      "price_per_100g": 185.71,
-      "url": "https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm",
-      "in_stock": true
-    },
-    {
-      "source": "GNC India",
-      "name": "GNC Protein Wafer Bar (Pack of 1 / Chocolate)",
-      "brand": "GNC",
-      "mrp": 120.0,
-      "price": 79.0,
-      "discount_pct": 34.2,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://gnc.in/products/gnc-protein-wafer-bar",
-      "in_stock": true
-    },
-    {
-      "source": "GNC India",
-      "name": "GNC Protein Wafer Bar (Pack of 1 / Peanut Butter)",
-      "brand": "GNC",
-      "mrp": 120.0,
-      "price": 79.0,
-      "discount_pct": 34.2,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://gnc.in/products/gnc-protein-wafer-bar",
       "in_stock": true
     }
   ]
