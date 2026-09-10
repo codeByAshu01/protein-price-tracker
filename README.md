@@ -4,7 +4,7 @@ Daily-updated protein powder prices scraped from Indian D2C brand stores and
 Nutrabay via a [GitHub Actions](.github/workflows/daily-price-check.yml) cron
 job. Data sources and rationale: see [SOURCES.md](SOURCES.md).
 
-**Last checked:** 2026-09-09 13:41 IST
+**Last checked:** 2026-09-10 13:40 IST
 
 Full history: [`data/history.csv`](data/history.csv) &middot; latest snapshot:
 [`data/latest.json`](data/latest.json)
@@ -58,7 +58,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Plant Protein - Rich Chocolate – 500gms | ₹1,599 | ₹800 | 50% | ₹160.00 | ✅ | [view](https://in.fastandup.com/products/plant-protein-powder-500gms) |
 | Plant Protein - Rich Chocolate - Single Serving Sachet Combo Pack (Rich Chocolate / Pack of 15) | ₹1,350 | ₹1,107 | 18% | - | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-single-serving-sachet-combo-pack) |
 | Plant Protein - Alphonso Mango - 1Kg | ₹3,115 | ₹1,558 | 50% | ₹155.80 | ❌ | [view](https://in.fastandup.com/products/plant-protein-alphonso-mango-25-servings) |
-| Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,558 | 50% | ₹155.80 | ❌ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
+| Plant Protein - Cookies & Cream - 1Kg | ₹3,115 | ₹1,558 | 50% | ₹155.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg) |
 | Plant Protein - Strawberry Blast - 25 Servings | ₹3,115 | ₹1,558 | 50% | - | ❌ | [view](https://in.fastandup.com/products/plant-protein-strawberry-25-servings) |
 | Plant Protein - Rich Chocolate - 1kg | ₹3,115 | ₹1,558 | 50% | ₹155.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-rich-chocolate-1kg) |
 | Plant Protein - Cookies & Cream - 500g Pack of 2 | ₹3,198 | ₹1,599 | 50% | ₹319.80 | ✅ | [view](https://in.fastandup.com/products/plant-protein-cookies-cream-500g-pack-of-2) |
@@ -130,7 +130,6 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 
 | Product | MRP | Price | Discount | ₹/100g (pack) | Stock | Link |
 |---|---:|---:|---:|---:|:---:|---|
-| Nutrabay Gold Pea Protein | ₹69 | ₹69 | 0% | ₹172.50 | ✅ | [view](https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹600 | ₹499 | 17% | ₹346.53 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | TruNativ Plant Based Everyday Protein - Protein You Can Cook With! | ₹699 | ₹599 | 14% | ₹363.03 | ✅ | [view](https://nutrabay.com/product/trunativ-plant-based-everyday-protein-protein-you-can-cook-with/?pId=9485223) |
 | Nutrabay Pure Pea Protein Isolate | ₹669 | ₹649 | 3% | ₹129.80 | ✅ | [view](https://nutrabay.com/product/nutrabay-pure-100-pea-protein-isolate/?pId=4537768) |
@@ -145,6 +144,7 @@ why Amazon/Flipkart/HealthKart/BigBasket aren't scraped).
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
 | Velbiom Happy Cultures Tastiest Plant Protein | ₹1,699 | ₹949 | 44% | ₹187.92 | ✅ | [view](https://nutrabay.com/product/velbiom-happy-cultures-tastiest-plant-protein/?pId=7407265) |
+| Optimum Nutrition (ON) Gold Standard Whey Protein Powder | ₹1,079 | ₹1,079 | 0% | - | ✅ | [view](https://nutrabay.com/product/optimum-nutrition-on-100-whey-gold-standard-2/?pId=4471481) |
 
 ## OZiva
 
