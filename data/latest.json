@@ -1,21 +1,9 @@
 {
-  "checked_at": "2026-09-11 13:35 IST",
+  "checked_at": "2026-09-12 13:27 IST",
   "items": [
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
-      "brand": "Nutrabay",
-      "mrp": 69,
-      "price": 69,
-      "discount_pct": 0.0,
-      "size_g": 40.0,
-      "price_per_100g": 172.5,
-      "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
-      "in_stock": true
-    },
-    {
-      "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
+      "name": "Nutrabay Hydrolyzed Gold Pea Protein",
       "brand": "Nutrabay",
       "mrp": 69,
       "price": 69,
@@ -123,7 +111,7 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
+      "name": "Nutrabay Hydrolyzed Gold Pea Protein",
       "brand": "Nutrabay",
       "mrp": 889,
       "price": 889,
@@ -135,7 +123,7 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
+      "name": "Nutrabay Hydrolyzed Gold Pea Protein",
       "brand": "Nutrabay",
       "mrp": 1049,
       "price": 899,
@@ -147,7 +135,7 @@
     },
     {
       "source": "Nutrabay",
-      "name": "Nutrabay Gold Pea Protein",
+      "name": "Nutrabay Hydrolyzed Gold Pea Protein",
       "brand": "Nutrabay",
       "mrp": 1049,
       "price": 899,
@@ -155,6 +143,18 @@
       "size_g": 500.0,
       "price_per_100g": 179.8,
       "url": "https://nutrabay.com/product/nutrabay-gold-hydrolyzed-pea-protein/?pId=3302532",
+      "in_stock": true
+    },
+    {
+      "source": "Nutrabay",
+      "name": "Nakpro Nutrition Platinum Soy Protein Isolate",
+      "brand": "Nakpro Nutrition",
+      "mrp": 2300,
+      "price": 899,
+      "discount_pct": 60.9,
+      "size_g": 1000.0,
+      "price_per_100g": 89.9,
+      "url": "https://nutrabay.com/product/nakpro-vegan-soy-protein-isolate-90-raw-pure-natural-vegetarian-plant-protein-supplement-powder/?pId=3990475",
       "in_stock": true
     },
     {
@@ -287,7 +287,7 @@
       "size_g": 1000.0,
       "price_per_100g": 155.8,
       "url": "https://in.fastandup.com/products/plant-protein-cookies-cream-1-kg",
-      "in_stock": true
+      "in_stock": false
     },
     {
       "source": "Fast&Up",
@@ -635,7 +635,7 @@
       "size_g": 500.0,
       "price_per_100g": 341.8,
       "url": "https://wellbeingnutrition.com/products/vegan-protein-italian-cafe-mocha",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "Wellbeing Nutrition",
@@ -1082,186 +1082,6 @@
       "in_stock": true
     },
     {
-      "source": "Naturaltein",
-      "name": "The Protein Dessert E-Cook Book by Naturaltein",
-      "brand": "naturaltein",
-      "mrp": 599.0,
-      "price": 399.0,
-      "discount_pct": 33.4,
-      "size_g": null,
-      "price_per_100g": null,
-      "url": "https://naturaltein.in/products/the-protein-dessert-e-cook-book-by-naturaltein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Chocolate / 1 Box (500 g))",
-      "brand": "naturaltein",
-      "mrp": 3000.0,
-      "price": 1112.0,
-      "discount_pct": 62.9,
-      "size_g": 500.0,
-      "price_per_100g": 222.4,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Mango / 1 Box (500 g))",
-      "brand": "naturaltein",
-      "mrp": 3000.0,
-      "price": 1112.0,
-      "discount_pct": 62.9,
-      "size_g": 500.0,
-      "price_per_100g": 222.4,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Berry / 1 Box (500 g))",
-      "brand": "naturaltein",
-      "mrp": 3000.0,
-      "price": 1112.0,
-      "discount_pct": 62.9,
-      "size_g": 500.0,
-      "price_per_100g": 222.4,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Pista / 1 Box (500 g))",
-      "brand": "naturaltein",
-      "mrp": 3000.0,
-      "price": 1112.0,
-      "discount_pct": 62.9,
-      "size_g": 500.0,
-      "price_per_100g": 222.4,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Coffee / 1 Box (500 g))",
-      "brand": "naturaltein",
-      "mrp": 3000.0,
-      "price": 1112.0,
-      "discount_pct": 62.9,
-      "size_g": 500.0,
-      "price_per_100g": 222.4,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Whey Protein Concentrate (Italian Ice Cream / 1 Box (300 g))",
-      "brand": "naturaltein",
-      "mrp": 1424.0,
-      "price": 1299.0,
-      "discount_pct": 8.8,
-      "size_g": 300.0,
-      "price_per_100g": 433.0,
-      "url": "https://naturaltein.in/products/whey-protein-concentrate",
-      "in_stock": false
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Whey Protein Concentrate (Chocolate Biscoff / 1 Box (300 g))",
-      "brand": "naturaltein",
-      "mrp": 1424.0,
-      "price": 1399.0,
-      "discount_pct": 1.8,
-      "size_g": 300.0,
-      "price_per_100g": 466.33,
-      "url": "https://naturaltein.in/products/whey-protein-concentrate",
-      "in_stock": false
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Chocolate / 2 Boxes (1 kg))",
-      "brand": "naturaltein",
-      "mrp": 6000.0,
-      "price": 1600.0,
-      "discount_pct": 73.3,
-      "size_g": 1000.0,
-      "price_per_100g": 160.0,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Mango / 2 Boxes (1 kg))",
-      "brand": "naturaltein",
-      "mrp": 6000.0,
-      "price": 1600.0,
-      "discount_pct": 73.3,
-      "size_g": 1000.0,
-      "price_per_100g": 160.0,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Berry / 2 Boxes (1 kg))",
-      "brand": "naturaltein",
-      "mrp": 6000.0,
-      "price": 1600.0,
-      "discount_pct": 73.3,
-      "size_g": 1000.0,
-      "price_per_100g": 160.0,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Pista / 2 Boxes (1 kg))",
-      "brand": "naturaltein",
-      "mrp": 6000.0,
-      "price": 1600.0,
-      "discount_pct": 73.3,
-      "size_g": 1000.0,
-      "price_per_100g": 160.0,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Plant Protein (Coffee / 2 Boxes (1 kg))",
-      "brand": "naturaltein",
-      "mrp": 6000.0,
-      "price": 1600.0,
-      "discount_pct": 73.3,
-      "size_g": 1000.0,
-      "price_per_100g": 160.0,
-      "url": "https://naturaltein.in/products/plant-protein",
-      "in_stock": true
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Whey Protein Isolate (Pista Kulfi / 1 Box (300 g))",
-      "brand": "naturaltein",
-      "mrp": 1780.0,
-      "price": 1775.0,
-      "discount_pct": 0.3,
-      "size_g": 300.0,
-      "price_per_100g": 591.67,
-      "url": "https://naturaltein.in/products/whey-protein-isolate",
-      "in_stock": false
-    },
-    {
-      "source": "Naturaltein",
-      "name": "Natural Whey Protein Isolate (Vanilla / 1 Box (300 g))",
-      "brand": "naturaltein",
-      "mrp": 1780.0,
-      "price": 1775.0,
-      "discount_pct": 0.3,
-      "size_g": 300.0,
-      "price_per_100g": 591.67,
-      "url": "https://naturaltein.in/products/whey-protein-isolate",
-      "in_stock": false
-    },
-    {
       "source": "GNC India",
       "name": "PP Protein Wafer Bar Mini 20gm (Chocolate / 20 gm)",
       "brand": "GNC India",
@@ -1391,7 +1211,7 @@
       "size_g": 35.0,
       "price_per_100g": 168.57,
       "url": "https://gnc.in/products/gnc-select-fermented-yeast-protein",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "GNC India",
@@ -1427,7 +1247,7 @@
       "size_g": 35.0,
       "price_per_100g": 185.71,
       "url": "https://gnc.in/products/gnc-select-fermented-yeast-protein-isolate-35gm",
-      "in_stock": false
+      "in_stock": true
     },
     {
       "source": "GNC India",
